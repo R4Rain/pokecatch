@@ -16,7 +16,8 @@ npm run dev
 ```
 
 ## Result
-![Image result](sample-1.png)
+![Image result 1](sample-1.png)
+![Image result 2](sample-2.png)
 
 ## Credits
 API: https://pokeapi.co/docs/v2
