@@ -17,3 +17,6 @@ npm run dev
 
 ## Result
 ![Image result](sample-1.png)
+
+## Credits
+API: https://pokeapi.co/docs/v2
